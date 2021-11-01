@@ -18,7 +18,7 @@
 <br>
 
 ## :man_technologist: About me:
-### :desktop_computer: Computational Systems student<br>
+### :desktop_computer: Computer Systems student<br>
 ### :snake: Python developer<br>
 ### :lock: Cybersecurity enthusiast<br>
 ### :penguin: Linux guy<br>
