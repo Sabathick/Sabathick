@@ -25,7 +25,7 @@
 ### :martial_arts_uniform: Fighter<br>
 <br>
 
-![Snake animation]
+![Snake animation](https://github.com/Sabathick/Sabathick/blob/output/github-contribution-grid-snake.svg)
 ## :mailbox: Let's get connected:
 <div>
   <a href="mailto:erickick13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
