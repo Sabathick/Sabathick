@@ -1,8 +1,9 @@
 # Hi! I'm Erick!!! :muscle: <img align="right" height="90" width="90" src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif">
 <br>
 <div>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Sabathick&count_private=true&show_icons=true&theme=merko&border_radius=20%">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabathick&layout=compact&theme=merko&border_radius=20%">
+<picture>
+  <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sabathick&show_icons=true&&count_private=true&show_icons=true&theme=merko&border_radius=20%"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabathick&langs_count=8&theme=merko&layout=compact">
 </div>
 <br>
 <div style="display: inline_block"><br>
